@@ -1,0 +1,9 @@
+E:\MyWorkSpace\vs2015\CodeModify\CodeModify\bin\Debug\CodeModify.exe.config
+E:\MyWorkSpace\vs2015\CodeModify\CodeModify\bin\Debug\CodeModify.exe
+E:\MyWorkSpace\vs2015\CodeModify\CodeModify\bin\Debug\CodeModify.pdb
+E:\MyWorkSpace\vs2015\CodeModify\CodeModify\obj\Debug\CodeModify.csprojResolveAssemblyReference.cache
+E:\MyWorkSpace\vs2015\CodeModify\CodeModify\obj\Debug\CodeModify.Form1.resources
+E:\MyWorkSpace\vs2015\CodeModify\CodeModify\obj\Debug\CodeModify.Properties.Resources.resources
+E:\MyWorkSpace\vs2015\CodeModify\CodeModify\obj\Debug\CodeModify.csproj.GenerateResource.Cache
+E:\MyWorkSpace\vs2015\CodeModify\CodeModify\obj\Debug\CodeModify.exe
+E:\MyWorkSpace\vs2015\CodeModify\CodeModify\obj\Debug\CodeModify.pdb
